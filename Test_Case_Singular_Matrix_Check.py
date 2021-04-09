@@ -19,4 +19,6 @@ class Test_Matrix_Singular(unittest.TestCase):
 
 
 
-#unittest.main()   #To Execute The Test Case
+#To Execute The Test Case
+if __name__ == '__main__':
+    unittest.main()
